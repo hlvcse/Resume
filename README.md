@@ -1,4 +1,2 @@
 # Here is my resume.
-Hanumat Lal Vishwakarma
-Mtech CSE, IIT Ropar
-2021-23
+Hanumat Lal Vishwakarma , Mtech CSE, IIT Ropar , 2021-23
